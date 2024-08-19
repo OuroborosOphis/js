@@ -1,0 +1,12 @@
+cac gia tri la false khi convert sang boolean
+0
+false 
+'' - ""
+undefined
+NaN
+null
+-- cac gia tri con lai khi convert se la true 
+
+-- Bất cứ giá trị nào trong Javascript khi chuyển đổi sang kiểu dữ liệu boolean mà 
+có giá trị true thì ta gọi giá trị đó là Truthy
+-- nguoc lai goi la Falsy

@@ -1,0 +1,16 @@
+1. declaration function: có thể gọi trước khi được
+định nghĩa
+function showMessage(){
+    ...
+}
+2. expression function : co the dat ten hoac k
+var showMessage2 = function(){
+
+}
+setTimeout(function(){
+
+})
+
+var myObject = {
+    myFunction: function(){}
+}

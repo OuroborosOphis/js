@@ -1,0 +1,27 @@
+1. du lieu nguyen thuy - primitive data
+- number
+- string
+- boolean
+- undefined: bien nhung chua gan gia tri
+- null
+- symbol: unique 
+
+2. du lieu phuc tap - complex data 
+- function
+var myFunction = function(){
+    ...
+}
+- object 
+var myObject = {
+    name: 'dau khac',
+    age: 149,
+    address: 'colombia',
+    myFunction: function(){
+
+    }
+}
+
+var myArray = ['js', 'php','ruby']
+
+-- kiem tra kieu du lieu
+console.log(typeof [ten_bien])

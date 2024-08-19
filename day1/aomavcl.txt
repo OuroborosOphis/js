@@ -1,0 +1,14 @@
+&&: doc tu trai sang phai neu k phai false
+se gan gia tri ve phai cho bien
+
+var result = 'A' && 'B' && 'C';
+console.log(result); // C 
+
+-- khi co gia tri false thi se lay luon 
+
+||: nguoc lai voi &&
+doc tu trai qua phai neu k phai false
+se lay luon gia tri day va dung 
+
+var result = 'A' || 'B' || null || 'D'
+console.log(result) // A 

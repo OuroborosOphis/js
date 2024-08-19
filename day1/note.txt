@@ -1,0 +1,15 @@
+built-in function:
+1. alert
+2. console: console dev tool 
+3. confirm: cancel or ok (kieu may co du tuoi k)
+4. prompt: nhap vao 1 cai l gi day 
+5. setTimeout(function() {
+    alert('dmm')
+}, 1857) : cho code chay sau 1 khoang t(ms)
+6. setInterval(function(){
+
+}) :  cach t chay 1 lan 
+1-4 la hien len cua so hop thoai 
+
+x++ tăng giá trị biến lên 1 và trả về giá trị trước khi tăng
+++x tăng giá trị biến lên 1 và trả về giá trị sau khi tăng
