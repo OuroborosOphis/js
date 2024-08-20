@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "React",
+      "description": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": "2",
+      "name": "Angular",
+      "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript."
+    },
+    {
+      "name": "Vue",
+      "description": "Vue.js is a progressive JavaScript framework for building user interfaces.",
+      "id": "3"
+    },
+    {
+      "name": "Svelte",
+      "description": "Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.",
+      "id": "4"
+    }
+  ]
+}
